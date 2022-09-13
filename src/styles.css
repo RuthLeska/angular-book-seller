@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+
+
+/*entweder hier deklarieren oder im angular.json unter styles*/
+/*@import "bootstrap/dist/css/bootstrap.min.css";*/
+
+
+.custom-card {
+  width: 350px;
+  max-width: 100%;
+  background-color: #eee;
+}
+
+.user-icon {
+  font-size: 100px;
+  color: #0aa20a;
+}
